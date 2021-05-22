@@ -1,2 +1,3 @@
-# basicmod
-Basic Mod for minecraft
+## Basic mod
+**Basic mod for minecraft**
+
